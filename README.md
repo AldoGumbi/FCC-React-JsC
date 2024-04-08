@@ -10,7 +10,7 @@ Este es un proyecto de la plataforma **FreeCodeCamp** del curso **Front-End Deve
 **Requisitos**: Los requisitos para construir la apliación se pueden encontrar en: https://www.freecodecamp.org/espanol/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator:
  
  
- <br><br>
+
 -------------
 ### Funcionamiento
 
