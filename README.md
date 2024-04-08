@@ -3,12 +3,12 @@
 Este es un proyecto de la plataforma **FreeCodeCamp** del curso **Front-End Development Libraries** para la certificación del programa.
 
 
-------------
+
 
 **Objetivo**: Construir una aplicación que sea funcionalmente similar a esta: https://javascript-calculator.freecodecamp.rocks/.
 
 **Requisitos**: Los requisitos para construir la apliación se pueden encontrar en: https://www.freecodecamp.org/espanol/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator:
-
+ <br><br>
 -------------
 ### Funcionamiento
 
