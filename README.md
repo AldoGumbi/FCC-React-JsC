@@ -1,4 +1,4 @@
-#JavaScript Calculator 
+# JavaScript Calculator 
 
 Este es un proyecto de la plataforma **FreeCodeCamp** del curso **Front-End Development Libraries** para la certificación del programa.
 
@@ -10,7 +10,7 @@ Este es un proyecto de la plataforma **FreeCodeCamp** del curso **Front-End Deve
 **Requisitos**: Los requisitos para construir la apliación se pueden encontrar en: https://www.freecodecamp.org/espanol/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator:
 
 -------------
-###Funcionamiento
+### Funcionamiento
 
 La primera constante, `isOperator`, es una función que recibe un parámetro `symbol` de tipo string. Esta función comprueba si el symbol dado es un operador matemático, es decir, si es uno de los siguientes caracteres: `*`, `/`, `+` o `-`. Para hacer esta comprobación, utiliza una expresión regular **/[*/+-]/**, que busca cualquiera de estos caracteres en la cadena symbol. Luego, utiliza el método `.test(symbol)` para verificar si el symbol coincide con la expresión regular. Si coincide, la función devuelve **true**, lo que indica que el symbol es un operador; de lo contrario, devuelve **false**
 
